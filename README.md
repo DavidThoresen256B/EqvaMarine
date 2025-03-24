@@ -1,0 +1,1 @@
+This project was based on the creation of a website for a startup company called Noaq AS (although they changed their name to Eqvamarine AS through the project).
